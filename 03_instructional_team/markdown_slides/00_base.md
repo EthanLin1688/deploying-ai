@@ -1,8 +1,8 @@
 ---
-marp: true
+marp: True
 theme: dsi_certificates_theme
 _class: invert
-paginate: true
+paginate: True
 ---
 
 # Deploying AI 

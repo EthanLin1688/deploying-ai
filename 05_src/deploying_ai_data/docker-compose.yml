@@ -2,8 +2,8 @@ services:
   chromadb:
     image: chromadb/chroma:latest # or a specific version like chromadb/chroma:0.5.2
     environment:
-      - IS_PERSISTENT=TRUE # Enable persistence
-      - ANONYMIZED_TELEMETRY=${ANONYMIZED_TELEMETRY:-FALSE} # Disable telemetry by default
+      - IS_PERSISTENT=True # Enable persistence
+      - ANONYMIZED_TELEMETRY=${ANONYMIZED_TELEMETRY:-False} # Disable telemetry by default
     ports:
       - "8000:8000" # Map host port 8000 to container port 8000
     volumes:
