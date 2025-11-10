@@ -1,4 +1,3 @@
-#python -m aviation_chat.app
 from aviation_chat.main import get_aviation_chat_agent
 from langchain_core.messages import HumanMessage, AIMessage
 import gradio as gr
