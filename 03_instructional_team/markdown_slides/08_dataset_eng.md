@@ -1,8 +1,8 @@
 ---
-marp: true
+marp: True
 theme: dsi_certificates_theme
 _class: invert
-paginate: true
+paginate: True
 ---
 
 <style>
@@ -199,7 +199,7 @@ $ echo "Data Sciences Institute"
 
 ## Deduplication Issues
 
-- Duplicated data skews distributions and inflates model confidence in false correlations.  
+- Duplicated data skews distributions and inflates model confidence in False correlations.  
 - It can also cause contamination between training and test sets.  
 - Even small duplication rates can significantly degrade performance.  
 - Deduplication improves both efficiency and fairness of training.

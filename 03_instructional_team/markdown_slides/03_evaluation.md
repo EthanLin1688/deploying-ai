@@ -1,8 +1,8 @@
 ---
-marp: true
+marp: True
 theme: dsi_certificates_theme
 _class: invert
-paginate: true
+paginate: True
 ---
 
 <style>
@@ -128,7 +128,7 @@ Read more: [airisk.mit.edu](https://airisk.mit.edu/)
 + Cross Entropy depends on:
 
   - The training data's predictability, measured by the data's entropy.
-  - How the distribution captured by the language model diverges from the true distribution of the training data.
+  - How the distribution captured by the language model diverges from the True distribution of the training data.
 
 ---
 
@@ -427,7 +427,7 @@ It is critical to remember that criteria definitions are not standardised.
 2. The criteria the model should follow to evaluate: "Your primary focus should be..." The more detailed instruction, the better.
 3. The scoring system:
 
-    - Classification: good/bad, true/false, relevant/irrelevant/neutral.
+    - Classification: good/bad, True/False, relevant/irrelevant/neutral.
     - Discrete numerical values: 1 to 5.
     - Continuous numerical values: between 0 and 1.
 
@@ -674,7 +674,7 @@ Unsafe content includes:
 
 ## Safety Benchmarks
 
-- [TruthfulQA (Lin et al, 2021)](https://arxiv.org/abs/2109.07958) is a benchmark to measure whether a language model is truthful in generating answers to questions spanning 38 categories (health, law, politics, and so on). To perform well, models must avoid generating false answers learned from imitating human texts.
+- [TruthfulQA (Lin et al, 2021)](https://arxiv.org/abs/2109.07958) is a benchmark to measure whether a language model is truthful in generating answers to questions spanning 38 categories (health, law, politics, and so on). To perform well, models must avoid generating False answers learned from imitating human texts.
 - [RealToxicityPrompts](https://huggingface.co/datasets/allenai/real-toxicity-prompts) tests how models respond to toxic inputs.  
 - [Bias in Open-ended Language Generation Dataset (BOLD)](https://github.com/amazon-science/bold) is a dataset to evaluate fairness in open-ended language generation in English language.
 
@@ -993,7 +993,7 @@ Code generation capability | pass@1 |  HumanEval | > 90% | >95%
 - Chen, Mark et al. (2021). "Evaluating large language models trained on code." [arXiv:2107.03374](https://arxiv.org/abs/2107.03374).
 - Feng, Shangbin et al. "From pretraining data to language models to downstream tasks: Tracking the trails of political biases leading to unfair NLP models." [arXiv:2305.08283](https://arxiv.org/abs/2305.08283) (2023).
 - Huyen, Chip. Designing machine learning systems. O'Reilly Media, Inc., 2022 
-- Lin, Stephanie, Jacob Hilton, and Owain Evans. "Truthfulqa: Measuring how models mimic human falsehoods." [arXiv:2109.07958](https://arxiv.org/abs/2109.07958) (2021).
+- Lin, Stephanie, Jacob Hilton, and Owain Evans. "Truthfulqa: Measuring how models mimic human Falsehoods." [arXiv:2109.07958](https://arxiv.org/abs/2109.07958) (2021).
 
 ---
 

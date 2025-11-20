@@ -16,7 +16,7 @@ body:
       label: Describe your issue
       placeholder: When I click here this happens
     validations:
-      required: true
+      required: True
   - type: textarea
     id: steps
     attributes:
@@ -26,7 +26,7 @@ body:
         2. Click here
         3. Click there
     validations:
-      required: true
+      required: True
   - type: textarea
     id: expected
     attributes:
