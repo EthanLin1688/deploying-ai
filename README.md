@@ -136,7 +136,7 @@ Quizzes will help you build key concepts in foundation models and AI Engineering
 
 + Each quiz will contain material from each live learning session.
 + You will receive a link to each quiz during the respective live learning session. The links are personalized, please do not share them. If you did not receive a link, contact any member of the course delivery team.
-+ Each quiz will contain about 10 questions of different types: true/false, multiple choice, simple selection, etc.
++ Each quiz will contain about 10 questions of different types: True/False, multiple choice, simple selection, etc.
 + All quizzes are mandatory and should be submitted by their due date. 
 + The quizzes will remain open until their respective due dates, after which you will not have access to them.
 

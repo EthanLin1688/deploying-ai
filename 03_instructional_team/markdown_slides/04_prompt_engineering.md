@@ -1,8 +1,8 @@
 ---
-marp: true
+marp: True
 theme: dsi_certificates_theme
 _class: invert
-paginate: true
+paginate: True
 ---
 
 <style>
@@ -759,7 +759,7 @@ Some techniques include:
 
 Self-Calibration is a two-step process:
 1. Get an initial answer.
-2. Ask the model whether the proposed answer is true or false.
+2. Ask the model whether the proposed answer is True or False.
 
 
 ```
